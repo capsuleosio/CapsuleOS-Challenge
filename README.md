@@ -47,5 +47,12 @@ All logic is exposed — **hidden in plain sight** — on the official site:
 
 ---
 
+## Community Thread
+
+Discuss the challenge and track public progress here:  
+*[CapsuleOS Challenge on Bitcointalk](https://bitcointalk.org/index.php?topic=5540040.new#new)*
+
+---
+
 Good luck.  
 Cracking the capsule could mark the beginning of a new era.
